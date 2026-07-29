@@ -12,7 +12,7 @@
 
 ## 📦 Shipping Production
 
-- **Wanderlust** (MERN) → Airbnb Clone | [Live Demo](https://wanderlust-topaz-gamma.vercel.app)
+- **Wanderlust** (MERN) → Full-stack Rental Marketplace | [Live Demo](https://wanderlust-topaz-gamma.vercel.app)
 - **Multimodal RAG Pipeline** with CLIP & FAISS
 - **Scalable Backend Architectures** (Spring Boot, JPA)
 
