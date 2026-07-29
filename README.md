@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @ahemadraza31
-- 👀 I’m interested in DSA right now
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on projects based on java(web or android dev)
-- 📫 How to reach me ahemadraza5426@gmail.com
-- looking forward to help  as much as i can..!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!---
-ahemadraza31/ahemadraza31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-stack AI Web Engineer | Building Scalable Systems
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Spring Boot, Node.js, REST APIs
+- **AI:** LangChain, FAISS, Google Gemini, RAG Pipelines
+
+## 📦 Shipping Production
+
+- **Wanderlust** (MERN) → Airbnb Clone | [Live Demo](https://wanderlust-topaz-gamma.vercel.app)
+- **Multimodal RAG Pipeline** with CLIP & FAISS
+- **Scalable Backend Architectures** (Spring Boot, JPA)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 **Actively Open to Opportunities**
+
+📧 [ahemadraza5426@gmail.com](mailto:ahemadraza5426@gmail.com)  
+🔗 [linkedin.com/in/ahemad-raja-pathan](https://linkedin.com/in/ahemad-raja-pathan)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
